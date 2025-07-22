@@ -1,3 +1,4 @@
+//
 export function sumOneToN(numberInput: number): number {
     let sumTarget = 0
 

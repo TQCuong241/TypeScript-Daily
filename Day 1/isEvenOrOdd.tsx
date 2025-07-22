@@ -1,4 +1,3 @@
-//check
 type EvenOrOdd = "Even" | "Odd"
 
 export function isEvenOrOdd(numberInput: number) : EvenOrOdd {
