@@ -1,4 +1,3 @@
-//
 export function findMax(numbers: number[]): number {
     let max = numbers[0]
 
