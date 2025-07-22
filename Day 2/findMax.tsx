@@ -7,5 +7,3 @@ export function findMax(numbers: number[]): number {
 
     return max
 }
-
-//
